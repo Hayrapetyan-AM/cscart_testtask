@@ -1,0 +1,438 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:22351:"        <div class="ty-mainbox-simple-container clearfix">
+                    <h2 class="ty-mainbox-simple-title">
+                                                    Similar products
+                                
+            </h2>
+                <div class="ty-mainbox-simple-body">    
+
+    
+    
+
+    
+    
+            
+    
+    
+    
+        
+
+                    <div class="grid-list">
+        <div class="ty-column2">
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://localhost:9090/" method="post" name="product_form_2900011" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?action=preview&amp;dispatch=products.view&amp;product_id=12" />
+<input type="hidden" name="product_data[11][product_id]" value="11" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery ty-scroller"
+        data-ca-items-count="1"
+        data-ca-items-responsive="true"
+        data-ca-scroller-item="1"
+        data-ca-scroller-item-desktop="1"
+        data-ca-scroller-item-desktop-small="1"
+        data-ca-scroller-item-tablet="1"
+        data-ca-scroller-item-mobile="1"
+        id="icons_2900011">
+                    <div class="cm-gallery-item cm-item-gallery ty-scroller__item">
+                    <a href="http://localhost:9090/apparel/mens-clothing/collegiate-72-tee/">
+                                    <img class="ty-pict     cm-image" alt="" title="" srcset="http://localhost:9090/images/thumbnails/300/300/detailed/0/X32444_01.jpg 2x" width="150" height="150" src="http://localhost:9090/images/thumbnails/150/150/detailed/0/X32444_01.jpg" />
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery ty-scroller__item">
+                    <a href="http://localhost:9090/apparel/mens-clothing/collegiate-72-tee/">
+                                                    <img class="ty-pict   lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost:9090/images/thumbnails/300/300/detailed/0/X32444_02.jpg 2x" width="150" height="150" data-src="http://localhost:9090/images/thumbnails/150/150/detailed/0/X32444_02.jpg" />
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>            <a href="http://localhost:9090/apparel/mens-clothing/collegiate-72-tee/" class="product-title" title="Collegiate 72 Tee" >Collegiate 72 Tee</a>    
+</bdi></div><div class="ty-grid-list__price ">            <span class="cm-reload-2900011" id="old_price_update_2900011">
+                                    
+        <!--old_price_update_2900011--></span>
+        <span class="cm-reload-2900011 ty-price-update" id="price_update_2900011">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                                                                                                        <span class="ty-price" id="line_discounted_price_2900011"><span class="ty-price-num">$</span><span id="sec_discounted_price_2900011" class="ty-price-num">30.00</span></span>
+                            
+                        <!--price_update_2900011--></span>
+        </div>
+<div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                                                
+    
+
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="11" data-ca-target-id="product_quick_view" href="http://localhost:9090/index.php?dispatch=products.quick_view&amp;product_id=11&amp;prev_url=index.php%3Faction%3Dpreview%26dispatch%3Dproducts.view%26product_id%3D12&amp;n_plain=Y&amp;n_items=11%2C15%2C280%2C282" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="05b2db7722a508d022899168028c07fb" /></form>
+
+</div></div><div class="ty-column2">
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://localhost:9090/" method="post" name="product_form_2900015" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?action=preview&amp;dispatch=products.view&amp;product_id=12" />
+<input type="hidden" name="product_data[15][product_id]" value="15" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery ty-scroller"
+        data-ca-items-count="1"
+        data-ca-items-responsive="true"
+        data-ca-scroller-item="1"
+        data-ca-scroller-item-desktop="1"
+        data-ca-scroller-item-desktop-small="1"
+        data-ca-scroller-item-tablet="1"
+        data-ca-scroller-item-mobile="1"
+        id="icons_2900015">
+                    <div class="cm-gallery-item cm-item-gallery ty-scroller__item">
+                    <a href="http://localhost:9090/apparel/mens-clothing/nike-chambray-super-runner-mens-jacket/">
+                                    <img class="ty-pict     cm-image" alt="" title="" srcset="http://localhost:9090/images/thumbnails/300/300/detailed/0/452499_010_A.jpg 2x" width="150" height="150" src="http://localhost:9090/images/thumbnails/150/150/detailed/0/452499_010_A.jpg" />
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery ty-scroller__item">
+                    <a href="http://localhost:9090/apparel/mens-clothing/nike-chambray-super-runner-mens-jacket/">
+                                                    <img class="ty-pict   lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost:9090/images/thumbnails/300/300/detailed/0/452499_010_B.jpg 2x" width="150" height="150" data-src="http://localhost:9090/images/thumbnails/150/150/detailed/0/452499_010_B.jpg" />
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>            <a href="http://localhost:9090/apparel/mens-clothing/nike-chambray-super-runner-mens-jacket/" class="product-title" title="Nike Chambray Super Runner Men&#039;s Jacket" >Nike Chambray Super Runner Men's Jacket</a>    
+</bdi></div><div class="ty-grid-list__price ">            <span class="cm-reload-2900015" id="old_price_update_2900015">
+                                    
+        <!--old_price_update_2900015--></span>
+        <span class="cm-reload-2900015 ty-price-update" id="price_update_2900015">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                                                                                                        <span class="ty-price" id="line_discounted_price_2900015"><span class="ty-price-num">$</span><span id="sec_discounted_price_2900015" class="ty-price-num">150.00</span></span>
+                            
+                        <!--price_update_2900015--></span>
+        </div>
+<div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                                                
+    
+
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="15" data-ca-target-id="product_quick_view" href="http://localhost:9090/index.php?dispatch=products.quick_view&amp;product_id=15&amp;prev_url=index.php%3Faction%3Dpreview%26dispatch%3Dproducts.view%26product_id%3D12&amp;n_plain=Y&amp;n_items=11%2C15%2C280%2C282" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="05b2db7722a508d022899168028c07fb" /></form>
+
+</div></div><div class="ty-column2">
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://localhost:9090/" method="post" name="product_form_29000280" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?action=preview&amp;dispatch=products.view&amp;product_id=12" />
+<input type="hidden" name="product_data[280][product_id]" value="280" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery ty-scroller"
+        data-ca-items-count="1"
+        data-ca-items-responsive="true"
+        data-ca-scroller-item="1"
+        data-ca-scroller-item-desktop="1"
+        data-ca-scroller-item-desktop-small="1"
+        data-ca-scroller-item-tablet="1"
+        data-ca-scroller-item-mobile="1"
+        id="icons_29000280">
+                    <div class="cm-gallery-item cm-item-gallery ty-scroller__item">
+                    <a href="http://localhost:9090/apparel/mens-clothing/t-shirt-color-black/">
+                                    <img class="ty-pict     cm-image" alt="" title="" srcset="http://localhost:9090/images/thumbnails/300/300/detailed/1/t-4.jpg 2x" width="150" height="150" src="http://localhost:9090/images/thumbnails/150/150/detailed/1/t-4.jpg" />
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery ty-scroller__item">
+                    <a href="http://localhost:9090/apparel/mens-clothing/t-shirt-color-black/">
+                                                    <img class="ty-pict   lazyOwl  cm-image" alt="" title="" data-srcset="http://localhost:9090/images/thumbnails/300/300/detailed/1/t-12.jpg 2x" width="150" height="150" data-src="http://localhost:9090/images/thumbnails/150/150/detailed/1/t-12.jpg" />
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-29000280" id="product_labels_update_29000280">
+                                                                                                        
+                        <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">Save 28%</div>
+    </div>
+                        
+        
+            <!--product_labels_update_29000280--></div>
+            </div><div class="ty-grid-list__item-name"><bdi>            <a href="http://localhost:9090/apparel/mens-clothing/t-shirt-color-black/" class="product-title" title="T-shirt, Color: Black" >T-shirt, Color: Black</a>    
+</bdi></div><div class="grid-list__rating">    
+    
+                                
+                                
+            <a class="ty-product-review-reviews-stars__link "
+            href="http://localhost:9090/apparel/mens-clothing/t-shirt-color-black/?selected_section=product_reviews#product_reviews"
+            title="The product is rated 5 out of 5 stars. Show review rating."
+        >
+            <div class="ty-product-review-reviews-stars
+                        "
+            data-ca-product-review-reviews-stars-rating="5"
+            data-ca-product-review-reviews-stars-full="5"
+            data-ca-product-review-reviews-stars-is-half=""
+                    ></div>
+            </a>
+    
+
+    
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-29000280" id="old_price_update_29000280">
+                                                            <span class="ty-list-price ty-nowrap" id="line_list_price_29000280"><span class="ty-strike"><span class="ty-list-price ty-nowrap">$</span><span id="sec_list_price_29000280" class="ty-list-price ty-nowrap">50.00</span></span></span>
+                                        
+        <!--old_price_update_29000280--></span>
+        <span class="cm-reload-29000280 ty-price-update" id="price_update_29000280">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                                                                                                        <span class="ty-price" id="line_discounted_price_29000280"><span class="ty-price-num">$</span><span id="sec_discounted_price_29000280" class="ty-price-num">36.00</span></span>
+                            
+                        <!--price_update_29000280--></span>
+        </div>
+<div class="ty-grid-list__control">                <div class="ty-grid-list__item-features">
+                                    <div class="ty-grid-list__item-features-item">
+                <span class="ty-grid-list__item-features-description">
+                    Color:
+                </span>
+                                                                                                                                                                                                                                                                                                                    <span class="ty-grid-list__item-features-variant">
+                        Blue,                    </span>
+                                    <span class="ty-grid-list__item-features-variant">
+                        Black,                    </span>
+                                    <span class="ty-grid-list__item-features-variant">
+                        White                    </span>
+                            </div>
+                                <div class="ty-grid-list__item-features-item">
+                <span class="ty-grid-list__item-features-description">
+                    Size:
+                </span>
+                                                                                                                                                                                                                                                                                                                    <span class="ty-grid-list__item-features-variant">
+                        Small,                    </span>
+                                    <span class="ty-grid-list__item-features-variant">
+                        Large,                    </span>
+                                    <span class="ty-grid-list__item-features-variant">
+                        Medium                    </span>
+                            </div>
+                
+        </div>
+    <div class="ty-quick-view-button">
+                                                                
+    
+
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="280" data-ca-target-id="product_quick_view" href="http://localhost:9090/index.php?dispatch=products.quick_view&amp;product_id=280&amp;prev_url=index.php%3Faction%3Dpreview%26dispatch%3Dproducts.view%26product_id%3D12&amp;n_plain=Y&amp;n_items=11%2C15%2C280%2C282" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="05b2db7722a508d022899168028c07fb" /></form>
+
+</div></div><div class="ty-column2">
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://localhost:9090/" method="post" name="product_form_29000282" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?action=preview&amp;dispatch=products.view&amp;product_id=12" />
+<input type="hidden" name="product_data[282][product_id]" value="282" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://localhost:9090/apparel/mens-clothing/t-shirt-color-blue/">
+                                    <img class="ty-pict     cm-image" alt="" title="" srcset="http://localhost:9090/images/thumbnails/300/300/detailed/1/t-7.jpg 2x" width="150" height="150" src="http://localhost:9090/images/thumbnails/150/150/detailed/1/t-7.jpg" />
+
+    </a>
+
+                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-29000282" id="product_labels_update_29000282">
+                                                                                                        
+                        <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">Save 63%</div>
+    </div>
+                        
+        
+            <!--product_labels_update_29000282--></div>
+            </div><div class="ty-grid-list__item-name"><bdi>            <a href="http://localhost:9090/apparel/mens-clothing/t-shirt-color-blue/" class="product-title" title="T-shirt, Color: Blue" >T-shirt, Color: Blue</a>    
+</bdi></div><div class="grid-list__rating">    
+    
+                                
+                                
+            <a class="ty-product-review-reviews-stars__link "
+            href="http://localhost:9090/apparel/mens-clothing/t-shirt-color-blue/?selected_section=product_reviews#product_reviews"
+            title="The product is rated 3.5 out of 5 stars. Show review rating."
+        >
+            <div class="ty-product-review-reviews-stars
+                        "
+            data-ca-product-review-reviews-stars-rating="4"
+            data-ca-product-review-reviews-stars-full="3"
+            data-ca-product-review-reviews-stars-is-half="1"
+                    ></div>
+            </a>
+    
+
+    
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-29000282" id="old_price_update_29000282">
+                                                            <span class="ty-list-price ty-nowrap" id="line_list_price_29000282"><span class="ty-strike"><span class="ty-list-price ty-nowrap">$</span><span id="sec_list_price_29000282" class="ty-list-price ty-nowrap">75.00</span></span></span>
+                                        
+        <!--old_price_update_29000282--></span>
+        <span class="cm-reload-29000282 ty-price-update" id="price_update_29000282">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                                                                                                        <span class="ty-price" id="line_discounted_price_29000282"><span class="ty-price-num">$</span><span id="sec_discounted_price_29000282" class="ty-price-num">27.99</span></span>
+                            
+                        <!--price_update_29000282--></span>
+        </div>
+<div class="ty-grid-list__control">                <div class="ty-grid-list__item-features">
+                                    <div class="ty-grid-list__item-features-item">
+                <span class="ty-grid-list__item-features-description">
+                    Color:
+                </span>
+                                                                                                                                                                                                                                                                                                                    <span class="ty-grid-list__item-features-variant">
+                        Blue,                    </span>
+                                    <span class="ty-grid-list__item-features-variant">
+                        Black,                    </span>
+                                    <span class="ty-grid-list__item-features-variant">
+                        White                    </span>
+                            </div>
+                                <div class="ty-grid-list__item-features-item">
+                <span class="ty-grid-list__item-features-description">
+                    Size:
+                </span>
+                                                                                                                                                                                                                                                                                                                    <span class="ty-grid-list__item-features-variant">
+                        Small,                    </span>
+                                    <span class="ty-grid-list__item-features-variant">
+                        Large,                    </span>
+                                    <span class="ty-grid-list__item-features-variant">
+                        Medium                    </span>
+                            </div>
+                
+        </div>
+    <div class="ty-quick-view-button">
+                                                                
+    
+
+    <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="282" data-ca-target-id="product_quick_view" href="http://localhost:9090/index.php?dispatch=products.quick_view&amp;product_id=282&amp;prev_url=index.php%3Faction%3Dpreview%26dispatch%3Dproducts.view%26product_id%3D12&amp;n_plain=Y&amp;n_items=11%2C15%2C280%2C282" data-ca-dialog-title="Quick product viewer" rel="nofollow">Quick view</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="05b2db7722a508d022899168028c07fb" /></form>
+
+</div></div>    </div>
+
+    
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon scheme='3.0'>
+    <id>product_second_description</id>
+    <name>Product Second Description</name>
+    <description>This addon adds a second description field to the product page.</description>
+    <version>1.0</version>
+    <priority>100</priority>
+    <queries>
+        <item for="install" type="file">database/install.sql</item>
+        <item for="uninstall" type="file">database/uninstall.sql</item>
+    </queries>
+    <status>active</status>
+    <settings></settings>
+</addon>
